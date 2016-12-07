@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup 1 : Daily Update
+title: Startup 1 Daily Update
 ---
 
 ##Day 0
