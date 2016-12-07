@@ -1,3 +1,7 @@
+---
+layout: post
+title: Startup 1 : Daily Update
+---
 ##Day 0
 Spent time researching on about the service industry
 Had to decide on whether home services or all services
